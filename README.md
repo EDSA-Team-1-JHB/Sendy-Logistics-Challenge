@@ -16,7 +16,7 @@
 * Loading the data
 * Data Cleaning/ Pre-processing
 * Exploratory Data Analysis
-* Modelling: Lgbm, Catboost
+* Modelling: Lgbm, Catboost, GradientBoostingRegressor, XGBRegressor
 * Optimization: Hyperparameter Tuning
 * Making a Submission
 
@@ -35,9 +35,7 @@
 
 Python, Jupyter notebook
 
-## Support and contact details
-
-{Any issues, questions, ideas, concerns or contributions to the code are highly encouraged.
+## Contact details
 
  Contacts : marcusmoeng@yahoo.com
  
