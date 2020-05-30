@@ -16,8 +16,9 @@
 * Loading the data
 * Data Cleaning/ Pre-processing
 * Exploratory Data Analysis
-* Modelling: Lgbm, Catboost, GradientBoostingRegressor, XGBRegressor
-* Optimization: Hyperparameter Tuning
+* Feature Engineering
+* Model selection & Hyperparameter Tuning
+* Model Evaluation: Catboost Regressor, Gradient Boosting Regressor
 * Making a Submission
 
 
